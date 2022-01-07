@@ -1,1 +1,1 @@
-[GitHub](http://cnn.com)
+[Random link](http://cnn.com)
